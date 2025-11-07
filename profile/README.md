@@ -81,4 +81,4 @@ If an AI can help you build better relationships… imagine what it can do for y
 ### ⚔️ “Build like the gods intended — with code that writes itself.”
 
 **© 2025 Valkyr Labs Inc.**  
-[Website](https://valkyrlabs.com) • [LinkedIn](https://linkedin.com/company/valkyrlabs) • [Twitter/X](https://twitter.com/valkyrlabs)
+[Website](https://valkyrlabs.com) • [LinkedIn](https://www.linkedin.com/company/valkyr-labs-inc/?viewAsMember=true) • [Twitter/X](https://twitter.com/valkyrlabs)
