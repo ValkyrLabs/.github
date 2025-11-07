@@ -1,4 +1,5 @@
 # ⚡ Valkyr Labs Inc.
+**the Reverse SaaS Company**
 
 > **Reinventing Software. Empowering Developers. Owning the Future.**
 
@@ -38,14 +39,13 @@ Traditional SaaS locks you into *their* platform.
 ## 🧰 Get Started
 
 ### 1. Explore Our Open Source Projects
-- [ThorAPI](https://github.com/ValkyrLabsInc/thorapi) – Open-source backend generator  
-- [ValorIDE](https://github.com/ValkyrLabsInc/valoride) – AI-assisted IDE plugin  
-- [OpenXLS](https://github.com/ValkyrLabsInc/openxls) – Spreadsheet engine
+- [ThorAPI](https://github.com/ValkyrLabs/thorapi) – Open-source backend generator  
+- [ValorIDE](https://github.com/ValkyrLabs/valoride) – AI-assisted IDE plugin  
+- [OpenXLS](https://github.com/ValkyrLabs/openxls) – Spreadsheet engine
 
 ### 2. Join the Community
-- 💬 [Discord](https://discord.gg/valkyrlabs) – Live chat with our engineering team  
-- 🧑‍💻 [Issues & Discussions](https://github.com/orgs/ValkyrLabsInc/discussions) – Contribute ideas, workflows, and feedback  
-- 📚 [Docs Portal](https://docs.valkyrlabs.com) – API specs, guides, and architecture deep dives  
+- 🧑‍💻 [Issues & Discussions](https://github.com/orgs/ValkyrLabs/discussions) – Contribute ideas, workflows, and feedback  
+- 📚 [Docs Portal](https://valkyrlabs.com/v1/docs/welcome) – API specs, guides, and architecture deep dives  
 
 ---
 
@@ -72,7 +72,6 @@ We believe the future of software is **self-organizing, transparent, and owned b
 
 ---
 
-## 🏗️ Fun Fact
 
 Our internal test app — *TrustLove Relate* — is a relationship journaling demo powered entirely by ValkyrAI workflows.  
 If an AI can help you build better relationships… imagine what it can do for your dev team. 💙
