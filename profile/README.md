@@ -14,11 +14,11 @@ Our mission is simple but radical:
 
 | Product | Description |
 |----------|--------------|
-| **🧩 [ThorAPI](https://github.com/ValkyrLabs/thorapi)** | An **OpenAPI-driven code generator** that builds secure Java Spring Boot backends with TypeScript/React frontends automatically. |
-| **🧠 [ValkyrAI](https://valkyrlabs.com/v1/Products/ValkyrAI/valkyrai-overview)** | An **agentic workflow engine** that turns OpenAPI specs into live, orchestrated automations. Think Zapier meets Kubernetes. |
-| **💻 [ValorIDE](https://github.com/ValkyrLabs/valoride)** | A **next-generation AI coding environment** with agentic “Vibe Coding” support and seamless integration with MCP servers and Valhalla components. |
-| **🧮 [GridHeim](https://valkyrlabs.com/v1/Products/ValkyrAI/gridheim-overview)** | A **spreadsheet-based computation engine** for formulas, models, and live data feeds — the backbone for ValkyrAI data workflows. |
-| **🔐 [SecureField](https://valkyrlabs.com/v1/Products/SecureField/SecureField-getting-started) / SecureKMS** | **Zero-trust field-level encryption** and key management for every generated service. |
+| ** [ThorAPI](https://github.com/ValkyrLabs/thorapi)** | An **OpenAPI-driven code generator** that builds secure Java Spring Boot backends with TypeScript/React frontends automatically. |
+| ** [ValkyrAI](https://valkyrlabs.com/v1/Products/ValkyrAI/valkyrai-overview)** | An **agentic workflow engine** that turns OpenAPI specs into live, orchestrated automations. Think Zapier meets Kubernetes. |
+| ** [ValorIDE](https://github.com/ValkyrLabs/valoride)** | A **next-generation AI coding environment** with agentic “Vibe Coding” support and seamless integration with MCP servers and Valhalla components. |
+| ** [GridHeim](https://valkyrlabs.com/v1/Products/ValkyrAI/gridheim-overview)** | A **spreadsheet-based computation engine** for formulas, models, and live data feeds — the backbone for ValkyrAI data workflows. |
+| ** [SecureField](https://valkyrlabs.com/v1/Products/SecureField/SecureField-getting-started) / SecureKMS** | **Zero-trust field-level encryption** and key management for every generated service. |
 
 Together, these form the **Valhalla Stack** — the foundation of our “**Reverse SaaS**” movement.
 
