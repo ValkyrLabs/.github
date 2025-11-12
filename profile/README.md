@@ -1,9 +1,9 @@
-# ⚡ Valkyr Labs Inc.
+# Valkyr Labs Inc.
 **the Reverse SaaS Company**
 
 > **Reinventing Software. Empowering Developers. Owning the Future.**
 
-Hi there 👋 — welcome to **Valkyr Labs**, the creators of the **Valhalla Suite** — a unified ecosystem for **agentic code generation**, **AI-driven workflow orchestration**, and **secure app hosting**.
+Welcome to **Valkyr Labs**, the creators of the **Valhalla Suite** — a unified ecosystem for **agentic code generation**, **AI-driven workflow orchestration**, and **secure app hosting**.
 
 Our mission is simple but radical:  
 **Give developers and founders total control over their code, data, and AI.**
@@ -24,19 +24,19 @@ Together, these form the **Valhalla Stack** — the foundation of our “**Rever
 
 ---
 
-## 🌀 The Reverse SaaS Revolution
+## The Reverse SaaS Revolution
 
 Traditional SaaS locks you into *their* platform.  
 **Reverse SaaS (RSaaS)** flips that model — we give you **your own** hosted, generated stack.
 
-- 🧬 **Spec → Service → App** in minutes  
-- 🔒 **Own your code, database, and keys**  
-- ⚙️ **Deploy anywhere** (Docker, Fargate, Bare Metal)  
-- 🧩 **Integrate everything** (OpenAPI, AsyncAPI, MCP)
+- **Spec → Service → App** in minutes  
+- **Own your code, database, and keys**  
+- **Deploy anywhere** (Docker, Fargate, Bare Metal)  
+- **Integrate everything** (OpenAPI, AsyncAPI, MCP)
 
 ---
 
-## 🧰 Get Started
+## Get Started
 
 ### 1. Explore Our Open Source Projects
 - [ThorAPI](https://github.com/ValkyrLabs/thorapi) – Open-source backend generator  
@@ -44,23 +44,23 @@ Traditional SaaS locks you into *their* platform.
 - [OpenXLS](https://github.com/ValkyrLabs/openxls) – Spreadsheet engine
 
 ### 2. Join the Community
-- 🧑‍💻 [Issues & Discussions](https://github.com/orgs/ValkyrLabs/discussions) – Contribute ideas, workflows, and feedback  
-- 📚 [Docs Portal](https://valkyrlabs.com/v1/docs/welcome) – API specs, guides, and architecture deep dives  
+- [Issues & Discussions](https://github.com/orgs/ValkyrLabs/discussions) – Contribute ideas, workflows, and feedback  
+- [Docs Portal](https://valkyrlabs.com/v1/docs/welcome) – API specs, guides, and architecture deep dives  
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to **our open ecosystem**:
 - Submit issues, ideas, or PRs on our public repos
 - Help shape the **Reverse SaaS manifesto**
 - Join community build sessions and hack weekends
 
-> 🧠 *If you believe software should build itself — you’re one of us.*
+> *If you believe software should build itself — you’re one of us.*
 
 ---
 
-## 🧬 About Valkyr Labs
+## About Valkyr Labs
 
 Founded in San Francisco, **Valkyr Labs Inc.** is an independent, self-funded R&D venture focused on:
 - **Code generation** and **AI reasoning**
@@ -72,13 +72,7 @@ We believe the future of software is **self-organizing, transparent, and owned b
 
 ---
 
-
-Our internal test app — *TrustLove Relate* — is a relationship journaling demo powered entirely by ValkyrAI workflows.  
-If an AI can help you build better relationships… imagine what it can do for your dev team. 💙
-
----
-
-### ⚔️ “Build like the gods intended — with code that writes itself.”
+### “Build it like you dream it — with code that writes itself.”
 
 **© 2025 Valkyr Labs Inc.**  
 [Website](https://valkyrlabs.com) • [LinkedIn](https://www.linkedin.com/company/valkyr-labs-inc/?viewAsMember=true) • [Twitter/X](https://twitter.com/valkyrlabs)
